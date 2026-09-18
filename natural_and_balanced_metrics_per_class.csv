@@ -1,0 +1,5 @@
+evaluation,kelas,precision,recall,f1_score,support
+natural_test_primary,Hutan Sehat,0.9980452387601229,0.9980452387601229,0.9980452387601229,3581
+natural_test_primary,Degradasi,0.9102564102564102,0.9102564102564102,0.9102564102564102,78
+balanced_diagnostic_secondary,Hutan Sehat,0.9176470588235294,1.0,0.9570552147239264,78
+balanced_diagnostic_secondary,Degradasi,1.0,0.9102564102564102,0.9530201342281879,78
